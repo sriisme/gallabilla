@@ -1,0 +1,38 @@
+.one
+{
+	border:1px solid black;
+	color:	#FFFFFF;
+	background-color: 		#00000F;
+	border-radius: 5px;
+}
+
+.two
+{
+	font-size: 0.9em;
+	
+}
+
+.three
+{
+	margin-top: 7%;
+}
+
+.four
+{
+	margin-top: 7%;
+}
+
+.five
+{
+	margin-top: 3%;
+}
+
+input:hover
+{
+	background-color: 	#E0FFEB;
+}
+
+body
+{
+	background-color: 	#FFFFD6;
+}
